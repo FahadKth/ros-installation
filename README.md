@@ -2,13 +2,13 @@
 guide for installing ROS on Ubuntu using Virtual box.
 
 ***
-##  **First :**
+##  **Step 1 :**
 ###  Download and install Virtual Box :
 choose version for your OS : https://www.virtualbox.org/wiki/Downloads
 
 ***
 
-##  **Second :**
+##  **Step 2 :**
 ### Install Ubuntu 20.04.4 on VM :
 Download Ubuntu 20.04.4 : https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso
 
@@ -17,7 +17,7 @@ Download Ubuntu 20.04.4 : https://releases.ubuntu.com/20.04/ubuntu-20.04.4-deskt
 
 ***
 
-##  **Third :**
+##  **Step 3 :**
 ### ROS Noetic Installation :
 Open the terminal then enter the following commands:
 
@@ -47,3 +47,7 @@ roscore
 ```
 <img width="960" alt="Screenshot 2022-07-17 224819 123" src="https://user-images.githubusercontent.com/108236308/179422443-ec3aa422-51fc-45f2-aac3-528fccaae2fc.png">
 
+
+***
+
+## Reference : https://varhowto.com/install-ros-noetic-ubuntu-20-04/
